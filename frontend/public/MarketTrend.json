@@ -1,0 +1,38 @@
+    [
+        {
+        "crop_name": "Wheat",
+        "price": 2200,
+        "trend": "upward",
+        "volume": 15000
+        },
+        {
+        "crop_name": "Rice",
+        "price": 1800,
+        "trend": "stable",
+        "volume": 20000
+        },
+        {
+        "crop_name": "Bringal",
+        "price": 1600,
+        "trend": "downward",
+        "volume": 13000
+        },
+        {
+        "crop_name": "Potato",
+        "price": 5200,
+        "trend": "upward",
+        "volume": 8000
+        },
+        {
+        "crop_name": "Tomato",
+        "price": 4300,
+        "trend": "upward",
+        "volume": 10000
+        },
+        {
+        "crop_name": "Carrot",
+        "price": 4800,
+        "trend": "downward",
+        "volume": 7000
+        }
+]
